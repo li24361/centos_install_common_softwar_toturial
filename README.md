@@ -4,7 +4,7 @@
 
 ## 使用yum安装 Node.js 环境
 
-    yum install -y npm
+    yum install -y npm
 
 ## 下载源码安装 Node.js 环境
 
@@ -41,7 +41,7 @@ npm 是 Node.js 的包管理和分发工具。它可以让 Node.js 开发者能�
     npm install -g forever 
 安装源管理软件
 
-    npm install -g nrm
+    npm install -g nrm
     
 更改为淘宝镜像
 
