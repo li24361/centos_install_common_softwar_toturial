@@ -24,7 +24,7 @@ yum安装
      
 添加以下
 
-<b>proxy_pass http://127.0.0.1:8888;<b>
+<b>proxy_pass http://127.0.0.1:8888;</b>
 
 修改后
         server {
